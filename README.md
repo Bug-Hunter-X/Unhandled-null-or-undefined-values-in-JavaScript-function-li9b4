@@ -1,0 +1,3 @@
+# Unhandled null or undefined values in JavaScript function
+
+This repository demonstrates a common error in JavaScript: failing to handle null or undefined values in function arguments.  The `bug.js` file contains the buggy code, which throws an error when null or undefined values are passed. The solution, found in `bugSolution.js`, demonstrates how to gracefully handle these cases by adding input validation.
